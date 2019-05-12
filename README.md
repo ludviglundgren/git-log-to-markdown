@@ -6,6 +6,10 @@ Export log commits grouped by day to markdown file (optionally filtered by autho
 
 Copy the `git-log-to-markdown` to the `/usr/local/bin` folder for all users to have access.
 
+```bash
+$ cp git-log-to-markdown /usr/local/bin
+```
+
 ## Usage
 
 In your project simply run git-log-to-markdown and it will output a gitlog.md file.
